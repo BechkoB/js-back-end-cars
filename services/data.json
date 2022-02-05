@@ -1,20 +1,14 @@
 {
-    "asdf1234": {
-        "name": "Subaru Legacy 2.0i 4x4",
-        "description": "202 800km. Newly imported. Manual transmission. Petrol engine.",
-        "imageUrl": "Subaru-Legacy-IV-Station-Wagon-facelift-2006.jpg",
-        "price": 3300
-    },
-    "5be5e663-b723": {
-        "name": "Toyota Avensis 1.6",
-        "description": "Imported from Denmark, with 145 400miles,  low Mileage, perfect conditions, manual",
-        "imageUrl": "11631980916986688_d3",
-        "price": 11900
-    },
-    "64523bf1-9cc6": {
-        "name": "Audi A3 ",
-        "description": "Best car Ever, 1.8T bullet proof engine, Kisai rexy",
-        "imageUrl": "maxresdefault.jpg",
-        "price": 100000
-    }
+  "5be5e663-b723": {
+    "name": "Toyota Avensis 1.6",
+    "description": "Imported from Denmark, with 145 400miles,  low Mileage, perfect conditions, manual",
+    "imageUrl": "11631980916986688_d3",
+    "price": 11500
+  },
+  "1e3d18d4-18aa": {
+    "name": "Audi A3",
+    "description": "Yeeeea Budyyyyy !! 1.8T babyyyy ! Kosmossss",
+    "imageUrl": "maxresdefault.jpg",
+    "price": 12300
+  }
 }

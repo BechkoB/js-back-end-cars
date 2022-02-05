@@ -19,6 +19,7 @@ img.cube {
     display: block;
     margin: 0 auto;
     text-align: center;
+    max-width: 300px;
 }
 
 img.logo {
@@ -73,6 +74,7 @@ div.cube {
     border: 1px solid #2b415433;
     background: white;
     vertical-align: top;
+    width: 300px;
 }
 
 div.cube:hover p.name {
@@ -258,4 +260,11 @@ footer {
     to {
         opacity: 0;
     }
+}
+
+.description {
+    display: none;
+}
+.description p{
+margin: 10px
 }
